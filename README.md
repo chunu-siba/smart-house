@@ -1,7 +1,7 @@
 # smart-house
 🏠 Smart Home Simulation System A Python-based framework that models a modern smart home ecosystem using Advanced OOP concepts. The system simulates various household gadgets, manages room-specific environments, and tracks energy consumption in real-time.
 🚀 Key Features
-Hierarchical Device Architecture: Built a robust base class (SmartDevices) using Abstract Base Classes (ABC) to ensure consistency across all household tech.
+Hierarchical Device Architecture: Built a robust base class (SmartDevices) using  Base Classes  to ensure consistency across all household tech.
 
 Specialized Room Logic: Implemented unique room behaviors, such as:
 
